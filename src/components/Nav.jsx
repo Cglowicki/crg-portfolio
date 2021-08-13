@@ -3,6 +3,6 @@ import './Nav.scss';
 
 export default function Nav() {
   return (
-    <nav className="nav-menu">check</nav>
+    <nav className="nav-menu">Cameron Glowicki</nav>
   )
 }
