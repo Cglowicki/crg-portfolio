@@ -1,4 +1,14 @@
 .intro-slide {
   background-color: royalblue;
-  width: 100%;
+  margin: 100px 30px 0px 30px;
+  height: 80vh;
+  border-radius: 10px;
+  box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 21px 0px rgba(0,0,0,0.75);
+}
+
+.name {
+  text-align: center;
+  padding-left: 15px;
 }
